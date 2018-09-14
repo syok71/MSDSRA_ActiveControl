@@ -8,6 +8,8 @@ To estimate the proposed approach, multi-scale dynamic system reliability analys
 All programs are perfomed based on the MATLAB progam.
 In order to run the progrom, it requires FERUM(Finite Element Reliability Using Matlab) being installed. 
 For more information on FERUM, please visit http://www.ce.berkeley.edu/projects/ferum/.
+The code also uses Genz algorithm that is already included in the code with a file name "qsimvnv.m". 
+For more information on FERUM, please visit http://www.math.wsu.edu/faculty/genz/homepage.
  
 How to use the developed Matlab code:
 
@@ -28,4 +30,5 @@ The code is to compute the system reliability of actively-controlled structural 
 
 Acknowledgement:
  
-The authors would like to thank Prof. Terje Haukaas who is the code developer of FERUM, respectively. 
+The authors would like to thank Prof. Terje Haukaas who is the code developer of FERUM, respectively.
+The authors also would like to thank Prof. Alan Genz who is the code developer of Genz algorithm. 
