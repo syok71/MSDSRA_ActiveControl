@@ -1,7 +1,7 @@
 The codes show how to evaluate "Multi-Scale Dynamic System Reliability Analysis of Actively-Controlled Structures subject to Earthquake Excitations".
 
 The codes are based on the paper "Seung-Min Kim, Seung-Yong Ok and Junho Song" Presented at KSCE Journal of Civil Engineering. 
-% The paper¡¯s full reference information is as follows:
+% The paper's full reference information is as follows:
 
 % Kim, S.-M., Ok, S.-Y. and J. Song (2018). Multi-Scale Dynamic System Reliability Analysis of Actively-Controlled Structures subject to Earthquake Excitations, KSCE Journal of Civil Engineering.
 % DOI: https://doi.org/10.1016/j.ress.2018.01.005
